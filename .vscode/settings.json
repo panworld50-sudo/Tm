@@ -1,0 +1,13 @@
+{
+  "markdown.preview.breaks": true,
+  "markdown.preview.linkify": true,
+  "markdown.preview.scrollPreviewWithEditor": true,
+
+  "workbench.editor.restoreViewState": false,
+  "workbench.startupEditor": "none",
+
+  "security.workspace.trust.untrustedFiles": "open",
+
+  "extensions.autoCheckUpdates": false,
+  "extensions.autoUpdate": false
+}
